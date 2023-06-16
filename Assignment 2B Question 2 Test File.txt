@@ -1,0 +1,7 @@
+Start of Test File
+This line has five words!
+This line has nine words, but is that better?
+Note for testing: This file has seven lines, 
+49 words, an average of four characters per word, 
+and the letter ‘e’ occurs 28 times in the file.
+End of Test File
